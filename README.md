@@ -45,4 +45,5 @@
 
 ---
 
+## ✨ Quote I live by  
 > **“Trying. Failing. Improving.”**
