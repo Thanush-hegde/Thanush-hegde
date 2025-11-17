@@ -6,7 +6,7 @@
   </a>
   &nbsp;
   <a href="https://twitter.com/HegdeThanush097">
-    <img src="https://img.shields.io/badge/X-@HegdeThanush097-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-@HegdeThanush097-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/thanush-hegde-0b2726375/">
