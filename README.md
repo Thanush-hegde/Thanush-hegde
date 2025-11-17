@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Thanush</h1>
 
 <p align="center">
-[![Instagram](https://img.shields.io/badge/Instagram-@blue\_ninja1987-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blue_ninja1987/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-@BLUE__NINJA1987-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blue_ninja1987/)
   </a>
   &nbsp;
   <a href="https://twitter.com/HegdeThanush097">
