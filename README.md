@@ -2,19 +2,19 @@
 
 <p align="center">
   <a href="https://www.instagram.com/blue_ninja1987/">
-    <img src="https://img.shields.io/badge/Instagram-@blue_ninja1987-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/Thanush-hegde/Thanush-hegde/main/assets/instagram.png" width="36" alt="instagram"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://twitter.com/HegdeThanush097">
-    <img src="https://img.shields.io/badge/X-@HegdeThanush097-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/Thanush-hegde/Thanush-hegde/main/assets/twitter.png" width="36" alt="twitter"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/thanush-hegde-0b2726375/">
-    <img src="https://img.shields.io/badge/LinkedIn-Thanush--Hegde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/Thanush-hegde/Thanush-hegde/main/assets/linkedin.png" width="36" alt="linkedin"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.snapchat.com/add/thry3k">
-    <img src="https://img.shields.io/badge/Snapchat-thry3k-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
+    <img src="https://raw.githubusercontent.com/Thanush-hegde/Thanush-hegde/main/assets/snapchat.png" width="36" alt="snapchat"/>
   </a>
 </p>
 
