@@ -1,21 +1,20 @@
 <h1 align="center">👋 Hey, I'm Thanush</h1>
 
-<!-- SOCIAL ICONS -->
 <p align="center">
   <a href="https://www.instagram.com/blue_ninja1987/">
-    <img src="https://i.imgur.com/zYkKy8W.png" width="32"/>
+    <img src="https://img.shields.io/badge/Instagram-@blue_ninja1987-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://twitter.com/HegdeThanush097">
-    <img src="https://i.imgur.com/UDWmHTk.png" width="32"/>
+    <img src="https://img.shields.io/badge/X-@HegdeThanush097-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/thanush-hegde-0b2726375/">
-    <img src="https://i.imgur.com/Yg1s5f4.png" width="32"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Thanush--Hegde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.snapchat.com/add/thry3k">
-    <img src="https://i.imgur.com/CCc5YPK.png" width="32"/>
+    <img src="https://img.shields.io/badge/Snapchat-thry3k-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
   </a>
 </p>
 
@@ -31,22 +30,10 @@
 ---
 
 ## 🛠️ Tech & Tools  
-**Frontend:**  
-- HTML  
-- CSS  
-- JavaScript  
-
-**Design:**  
-- Figma  
-
-**Version Control:**  
-- Git  
-- GitHub  
-
-**Learning:**  
-- React  
-- UI/UX workflows  
-- Better design systems  
+**Frontend:** HTML • CSS • JavaScript  
+**Design:** Figma  
+**Version Control:** Git & GitHub  
+**Learning:** React • UI/UX workflows
 
 ---
 
@@ -59,5 +46,4 @@
 
 ---
 
-## ✨ Quote I live by  
 > **“Trying. Failing. Improving.”**
