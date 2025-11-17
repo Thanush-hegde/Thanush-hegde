@@ -2,14 +2,15 @@
 
 <p align="center">
 <p align="center">
+<div align="center">
 
-  [![Instagram Badge](https://img.shields.io/badge/INSTAGRAM-@BLUE__NINJA1987-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blue_ninja1987/)
+[![Instagram Badge](https://img.shields.io/badge/INSTAGRAM-@BLUE__NINJA1987-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blue_ninja1987/)
+[![Twitter Badge](https://img.shields.io/badge/X-@HEGDETHANUSH097-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/HegdeThanush097)
+[![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-THANUSH--HEGDE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanush-hegde-0b2726375/)
+[![Snapchat Badge](https://img.shields.io/badge/SNAPCHAT-THRY3K-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/thry3k)
 
-  [![Twitter Badge](https://img.shields.io/badge/X-@HEGDETHANUSH097-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/HegdeThanush097)
+</div>
 
-  [![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-THANUSH--HEGDE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanush-hegde-0b2726375/)
-
-  [![Snapchat Badge](https://img.shields.io/badge/SNAPCHAT-THRY3K-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/thry3k)
 
 </p>
 
