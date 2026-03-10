@@ -50,6 +50,7 @@
 ## ✨ Quote I live by  
 > **“Trying. Failing. Improving.”**
 
+
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
